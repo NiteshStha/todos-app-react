@@ -1,0 +1,9 @@
+export const CHANGE_STATE = 'CHANGE_STATE';
+
+export const CHANGE_FILTER_STATUS = 'CHANGE_FILTER_STATUS';
+export const CHANGE_FILTER_SEARCH = 'CHANGE_FILTER_SEARCH';
+
+export const ADD_TODO = 'ADD_TODO';
+export const COMPLETE_TODO = 'COMPLETE_TODO';
+export const UPDATE_TODO = 'UPDATE_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
